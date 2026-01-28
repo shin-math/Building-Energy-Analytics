@@ -26,7 +26,7 @@ Developed a full data pipeline to process electricity consumption data for 172 b
 
 
 
-  ![Total Energy Consumption Over Time](images/Screenshot 2026-01-27 181411.png)
+  ![Total Energy Consumption Over Time](./images/Screenshot 2026-01-27 181411.png)
 #  Building Total Energy Consumption Over Time
 ## Key Insights:
 -The total energy consumption shows a clear seasonal pattern, with demand gradually increasing from mid-2022 and peaking during the winter months (December–February).
