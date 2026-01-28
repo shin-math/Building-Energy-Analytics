@@ -26,6 +26,8 @@ Developed a full data pipeline to process electricity consumption data for 172 b
 
 
 <img width="851" height="322" alt="Screenshot 2026-01-27 181411" src="https://github.com/user-attachments/assets/260a4062-6285-44f5-a878-620037663bef" />
+
+
 #  Building Total Energy Consumption Over Time
 ## Key Insights:
 -The total energy consumption shows a clear seasonal pattern, with demand gradually increasing from mid-2022 and peaking during the winter months (December–February).
@@ -46,12 +48,13 @@ Developed a full data pipeline to process electricity consumption data for 172 b
 
 -As temperatures increase, overall energy consumption tends to decrease, suggesting cooling demand is less energy-intensive than heating for these buildings.
 
--The widespread of values highlights operational diversity, influenced by factors such as occupancy, building function, and time of day.
+-The widespread use of values highlights operational diversity, influenced by factors such as occupancy, building function, and time of day.
 
 -Near-zero energy values across all temperatures align with observed downtime periods, confirming data consistency across analyses.
 
 
 <img width="794" height="298" alt="Screenshot 2026-01-27 224853" src="https://github.com/user-attachments/assets/dc173e9b-ab4c-42db-84e5-afb11620422b" /> 
+
 # Daily Peak Energy Consumption
 ## Key Insights:
 -Daily peak energy demand increases steadily toward winter, reaching maximum values of approximately 30–35 kWh.
