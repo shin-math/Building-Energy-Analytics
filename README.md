@@ -65,8 +65,11 @@ Developed a full data pipeline to process electricity consumption data for 172 b
 
 -After this period, peak energy patterns become more irregular, suggesting partial building reactivation or changes in usage behavior.
 
+
+
 # Summary of Findings
--Energy consumption is strongly seasonal and temperature-dependent, with heating driving peak demand.
+-A pronounced drop in daily peak energy consumption occurs around July 2023, which is not present during the same period in July 2022. This indicates that the decline is not driven solely by seasonal effects. The pattern suggests a potential operational shutdown, reduced building occupancy, or a data collection outage during this period. The consistency of this anomaly across multiple visualizations reinforces its validity and highlights the importance of anomaly detection in energy analytics.
+
 
 -Peak energy analysis reveals critical high-risk periods relevant for capacity planning and cost optimization.
 
